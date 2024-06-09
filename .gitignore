@@ -1,0 +1,6 @@
+compressed.t64
+bundle.bin
+*.kate-swp
+__pycache__
+*/__pycache__
+a.out
